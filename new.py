@@ -8,3 +8,4 @@ st.text_input("text input") # 文字入力(1行)
 st.text_area("text area") # 文字入力(複数行)
 st.slider("slider", 0, 100, 50) # スライダー
 st.file_uploader("Choose file") # ファイルアップロード
+streamlit run app.py
